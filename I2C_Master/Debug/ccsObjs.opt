@@ -1,0 +1,9 @@
+"./TWI.obj"
+"./gpio.obj"
+"./i2c.obj"
+"./main.obj"
+"./sysctl.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../driverlib.lib"
+"../tm4c123gh6pm.cmd"
+-llibc.a
